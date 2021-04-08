@@ -40,6 +40,13 @@ body {
   padding: 1em;
 }
 #parrafo {
-  color: blue;
+  padding: 10px 0 10px 0;
+  background-color: rgb(151, 151, 151);
+  color: rgb(255, 255, 255);
   font-weight: bold;
+  text-align: center;
+}
+#corazon {
+  color: blue;
+  padding: 5px;
 }
